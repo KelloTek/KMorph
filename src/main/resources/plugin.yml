@@ -1,0 +1,12 @@
+name: KMorph
+version: '${project.version}'
+main: fr.kellotek.kmorph.KMorph
+api-version: 1.18
+authors: [ KelloTek ]
+commands:
+  morph:
+    description: Allows you to manage the morph.
+    permission: kmorph.use
+permissions:
+  kmorph.use:
+    default: op
