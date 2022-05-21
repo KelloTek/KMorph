@@ -4,6 +4,6 @@
 
 https://www.spigotmc.org/resources/kmorph-system-of-transformation.100422/
 
-![CommandsAndPerms](https://user-images.githubusercontent.com/47261795/169669507-c0c4d0f9-6d80-43e5-b5d7-a2b7e51082f0.png)
+![CommandsAndPerms](https://user-images.githubusercontent.com/47261795/169669549-4c547baa-a0aa-4f0e-8a42-fc5caf2e524a.png)
 
 This plugin will allow you to transform yourself into a living entity.
