@@ -1,4 +1,4 @@
-# KMorph
+# KMorph - System of Transformation 1.1
 
 Link of the plugin: https://www.spigotmc.org/resources/kmorph-system-of-transformation.100422/
 
