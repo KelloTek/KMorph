@@ -51,8 +51,7 @@ public class CommandMorph implements TabExecutor {
                         player.sendMessage(ChatColor.RED + "Your entity is not a living entity.");
                         break;
                     }
-                    player.setInvisible(true);
-                    player.setInvulnerable(true);
+                    player.setGameMode(GameMode.SPECTATOR);
                     LivingEntity morph = (LivingEntity) player.getWorld().spawnEntity(player.getLocation(), et);
                     KMorph.morphed.put(player.getUniqueId(), morph.getUniqueId());
                 } catch (IllegalArgumentException e) {
