@@ -8,7 +8,7 @@ https://www.spigotmc.org/resources/kmorph-system-of-transformation.100422/
 
 /morph help - Displayed the helps.
 /morph set - Allows you to transform yourself into an entity.
-/morph remove - Allows you to detransform.
+/morph remove - Allows you to detranform.
 
 kmorph.use - Allows you to use the morph commands.
 
